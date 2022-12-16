@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rodrigo Sanseverino de Anhaia
 - 👀 I’m interested in Swift.
-- 🌱 I’m currently learning UIKit, SwiftUI & MVVM-C.
+- 🌱 I’m currently learning Dependency Injection.
 - 💞️ I’m looking to collaborate on native iOS projects 
 - 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/rodrigo-sanseverino-de-anhaia-b4575598/)
 
